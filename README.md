@@ -1,5 +1,5 @@
 #Matlab26022020
-Nodal Analysis Matlab code
+Nodal Analysis finding node voltages
 
 
 That code is written by the help of reference:
