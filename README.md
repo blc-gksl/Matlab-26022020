@@ -1,5 +1,5 @@
-# Matlab-26022020
-Nodal Analysis Matlab code
+# Nodal Analysis Matlab code
+
 
 That code is written by the help of reference:
 http://www.swarthmore.edu/NatSci/echeeve1/Ref/mna/MNA3.html
